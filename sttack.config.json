@@ -1,0 +1,6 @@
+{
+  "personalAccessToken": "personalAccessToken",
+  "userPublicKeyPath": "/Users/phuonganh/.ssh/id_rsa.pub",
+  "userPrivateKeyPath": "/Users/phuonganh/.ssh/id_rsa",
+  "userPassphrase": "passphrase"
+}
